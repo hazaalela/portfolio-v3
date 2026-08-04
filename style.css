@@ -53,7 +53,7 @@ body {
 }
 
 .logo span {
-    color: var(var(--primary));
+    color: var(--primary);
 }
 
 .nav-links {
