@@ -24,10 +24,10 @@ window.addEventListener("scroll", () => {
 
 });
 const words = [
-    "Front-End Developer.",
+    "Frontend Developer.",
     "Computer Programming Student.",
     "JavaScript Learner.",
-    "Problem Solver."
+    "UI Enthusiast."
 ];
 
 let wordIndex = 0;
